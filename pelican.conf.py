@@ -14,7 +14,7 @@ GITHUB_URL = 'http://github.com/electrobarn/'
 FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
-THEME = u'themes/electrobarn'
+THEME = u'themes/skipandmadge'
 
 # Blogroll
 # LINKS =  (
@@ -24,10 +24,9 @@ THEME = u'themes/electrobarn'
 # Social widget
 SOCIAL = (
           ('twitter', 'http://twitter.com/electrobarn'),
-          ('github', 'http://github.com/electrobarn'),
+          # ('github', 'http://github.com/electrobarn'),
          )
 
 DEFAULT_PAGINATION = False
 
-
-    
+GOOGLE_ANALYTICS = 'UA-1261694-1'

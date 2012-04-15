@@ -3,3 +3,5 @@ feedgenerator>=1.2.1
 jinja2>=2.6
 pygments>=1.5
 Markdown>=2.1.1
+beautifulsoup>=3.2.1
+
