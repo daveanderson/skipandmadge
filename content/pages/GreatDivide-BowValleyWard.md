@@ -15,7 +15,7 @@ The Great Divide Mountain Bike Route ([GDMBR](http://en.wikipedia.org/wiki/Great
 
 We plan on riding 14% of this distance (620 km) in less than one week – riding the northernmost section of the route from Banff to Echo Lake (crossing the border in Roosville).
 
-![Route](images/GreatDivideRoute_Banff_Echo_Lake.jpg)
+![Route](/images/GreatDivideRoute_Banff_Echo_Lake.jpg)
 
 [Route Maps are available from Adventure Cycling Association](http://www.adventurecycling.org/routes/greatdivide.cfm)
 
@@ -24,7 +24,7 @@ The [Tour Divide](http://tourdivide.org) race along the GDMBR starts June 8, 201
 
 By the start of July, the snowpack shouldn't be an obstacle.  (Last year in June, Tour Divide racers [packed snowshoes](http://singletrack.competitor.com/2011/06/photo-gallery/tour-divide-on-the-trail_17049) for the first few days…)
 
-![Snow](images/2650362110_26f16075bb.jpg)
+![Snow](/images/2650362110_26f16075bb.jpg)
 
 
 ### Distances
@@ -51,7 +51,7 @@ Most of the GDMBR riders have moved *away* from [panniers](http://en.wikipedia.o
 #### Bike
 Though any mountain bike will do, a lightweight hardtail mountain bike (front suspension but not rear suspension) or rigid (no suspension) is recommended. [29ers](http://en.wikipedia.org/wiki/29er_(bicycle)) are pretty trendy these days.
 
-![Bikepacking setup](images/6882239311_b4c1199072_b.jpg)
+![Bikepacking setup](/images/6882239311_b4c1199072_b.jpg)
 
 
 #### Bags
