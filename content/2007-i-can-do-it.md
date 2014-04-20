@@ -1,7 +1,8 @@
 Date: 2007-12-07
 Title: I can do it, Mommy
 Slug: I-can-do-it-Mommy
-Tags: kids, family
+Category: Family
+Tags: Sophia
 
 
 Here's my little girl, perfecting her culinary skills.  I do feel a *little* sorry for the banana...

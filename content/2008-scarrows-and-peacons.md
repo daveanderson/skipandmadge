@@ -1,24 +1,25 @@
 Date: 2008-4-27
 Title: Scarrows & Peacons
 Slug: scarrows-and-peacons
-Tags: kids, family
+Category: Family
+Tags: Sophia, Lauryn
 
-![Easter Dresses](images/easter-dresses.jpg)
+![1](images/easter-dresses.jpg "Easter Dresses")
 
-Lauryn:   Oh, look!  A Robin!
+> Lauryn:   Oh, look!  A Robin!
 
-Sophie:   We need to get the Biwd Book so we can see what kind of biwd it is.  It might be a scawwow.
+> Sophie:   We need to get the Biwd Book so we can see what kind of biwd it is.  It might be a scawwow.
 
-Lauryn:   A scarrow?
+> Lauryn:   A scarrow?
 
-Sophie:   Yeah.  A scawwow.  Or a peacon!
+> Sophie:   Yeah.  A scawwow.  Or a peacon!
 
-Lauryn:   A PEACON!!??
+> Lauryn:   A PEACON!!??
 
-Sophie:   Yeah... scawwows and peacons.
+> Sophie:   Yeah... scawwows and peacons.
 
-Lauryn:   What's a peacon?
+> Lauryn:   What's a peacon?
 
-Sophie:   A peacon is a biwd that has long bwanches... and on the bwanches it has eyes!
+> Sophie:   A peacon is a biwd that has long bwanches... and on the bwanches it has eyes!
 
-![Peacon](images/peacon.jpg)
+![2](images/peacon.jpg "Peacon")
