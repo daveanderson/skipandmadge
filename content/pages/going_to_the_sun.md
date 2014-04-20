@@ -1,3 +1,9 @@
+Date: 2014-4-20
+Title: Going to the Sun
+Slug: going-to-the-sun
+Tags: cycling
+
+
 # Going to the Sun
 
 * St Mary to west end of St Mary Lake (**Warm up**)
