@@ -3,7 +3,7 @@
 
 AUTHOR = u"Dave Anderson"
 SITENAME = u"skipandmadge.com"
-SITEURL = 'http://skipandmadge.com/'
+SITEURL = 'http://skipandmadge.com'
 
 TIMEZONE = 'America/Edmonton'
 

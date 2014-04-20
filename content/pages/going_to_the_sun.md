@@ -5,7 +5,6 @@ Tags: cycling
 
 
 
-# Going to the Sun
 ## Cycling Logan Pass
 
 * St Mary to west end of St Mary Lake (**Warm up**)
