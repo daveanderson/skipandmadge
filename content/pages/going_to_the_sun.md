@@ -7,7 +7,7 @@ Tags: cycling
 
 ## Cycling Logan Pass
 
-* St Mary to west end of St Mary Lake (**Warm up**)
+#### St Mary to west end of St Mary Lake (**Warm up**)
   * distance 18 km
   * elevation gain 264 m
   * elevation loss 204 m
@@ -15,7 +15,7 @@ Tags: cycling
   
 ![St Mary To West End Of St Mary Lake](/images/StMaryToWestEndOfStMaryLake.jpg)
   
-* West end of St Mary Lake to Logan Pass Summit (**Grind Up**)
+#### West end of St Mary Lake to Logan Pass Summit (**Grind Up**)
   * distance 11 km
   * elevation gain 620 m
   * elevation loss 45 m
@@ -25,7 +25,7 @@ Tags: cycling
 ![West end of St Mary Lake to Logan Pass Summit](/images/StMaryLakeToLoganPass.jpg)
 
   
-* Logan Pass Summit to McDonald Creek (**Flying Descent – Not over the edge!**)
+#### Logan Pass Summit to McDonald Creek (**Flying Descent – Not over the edge!**)
   * distance 17 km
   * elevation gain 60 m
   * elevation loss 997 m
@@ -33,7 +33,7 @@ Tags: cycling
   
   ![Logan Pass Summit To McDonald Creek](/images/LoganPassSummitToMcDonaldCreek.jpg)
   
-* McDonald Creek to West Glacier (**Get off the road by 11**)
+#### McDonald Creek to West Glacier (**Get off the road by 11**)
   * distance 34 km
   * elevation gain 175 m
   * elevation loss 282 m
@@ -42,9 +42,9 @@ Tags: cycling
 ![McDonald Creek To West Glacier](/images/McDonaldCreekToWestGlacier.jpg)
 
 
-Total Ride: 80 km
+**Total Ride: 80 km
 Total Elevation Gain: 1119 m
-Total Elevation Loss: 1528 m
+Total Elevation Loss: 1528 m**
 
 From [National Park Service: Biking Going to the Sun Road](http://www.nps.gov/glac/planyourvisit/bicycling.htm)
 > For safety and to ease congestion, restrictions are in effect on sections of the Going-to-the-Sun Road, from June 15 through Labor Day:
@@ -145,7 +145,7 @@ What is the maximum elevation on the Going-to-the-Sun Road?
 * Chamois cream
 * [Frame bag/Top Tube Bag](http://www.mec.ca/shop/cycling-handlebar-and-frame-bags/50002+50157/?h=10+50002+50012+50156)
 
-See also: 
+### See also: 
 
 * [Road Status Page](http://home.nps.gov/applications/glac/roadstatus/roadstatus.cfm)
 * [Glacier National Park Map (pdf)](http://www.nps.gov/hfc/carto/PDF/GLACmap1.pdf)
@@ -153,3 +153,5 @@ See also:
 * [YouTube descdent video](http://www.youtube.com/watch?v=g5mcCMe16C4)
 * [Adventure Cycling: Going to the Sun Road](http://forums.adventurecycling.org/index.php?topic=6811.0)
 
+### Training Rides:
+* [Ride this 4 times in a session](http://www.strava.com/segments/4044077)
